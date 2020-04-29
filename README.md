@@ -5,11 +5,15 @@ React Native sample project
 
 Git clone this app.
 
+## Install related apps
+
 `brew install node`
 
 `brew install watchman`
 
 `npm install -g expo-cli`
+
+## compile & start app
 
 if you use npm: `npm start`
 
@@ -18,5 +22,3 @@ if you use yarn: `yarn start`
 It can also be executed as the following command.
 `expo start`
 
-expo init ReactSampleProject
-cd ReactSampleProject
